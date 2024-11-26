@@ -1,13 +1,13 @@
 {
-  "name": "@rsc-labs/medusa-documents",
+  "name": "@lyn/medusa-documents",
   "version": "0.8.4",
   "description": "Generate documents from Medusa",
   "main": "dist/index.js",
-  "author": "RSC Labs (https://rsoftcon.com)",
+  "author": "LyN Soluciones",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RSC-Labs/medusa-documents"
+    "url": "https://github.com/armlyn/medusa-store-analytics"
   },
   "keywords": [
     "medusa-plugin",
